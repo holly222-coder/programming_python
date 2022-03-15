@@ -1,3 +1,5 @@
+#Below are a set of scores that students have received in the past semester. Write code to determine how many are 90 or above and assign that result to the value a_scores.
+
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 15 14:41:12 2022
